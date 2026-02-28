@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Talk",
+  "base_artist": "Khalid",
+  "createdAt": "2026-02-28T09:57:54.552353Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How To Talk To Girls",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/01_How_To_Talk_To_Girls_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore (feat. Selena Gomez)",
+      "artist": "Charlie Puth feat. Selena Gomez",
+      "has_synced": true,
+      "path": "select/02_We_Don't_Talk_Anymore_(feat._Selena_Gomez)_Charlie_Puth_feat._Selena_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Little Less Talk and a Lot More Action",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/03_A_Little_Less_Talk_and_a_Lot_More_Action_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Little Less Talk And A Lot More Action (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/04_A_Little_Less_Talk_And_A_Lot_More_Action_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Wanna Talk About Me",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/05_I_Wanna_Talk_About_Me_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If These Dogs Could Talk",
+      "artist": "Ashley McBryde feat. Brandy Clark",
+      "has_synced": false,
+      "path": "select/06_If_These_Dogs_Could_Talk_Ashley_McBryde_feat._Brandy_Clark.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Loose Talk",
+      "artist": "Carl Smith",
+      "has_synced": true,
+      "path": "select/07_Loose_Talk_Carl_Smith.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "People Talk",
+      "artist": "Kidd G",
+      "has_synced": true,
+      "path": "select/08_People_Talk_Kidd_G.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Talk About Georgia",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/09_Talk_About_Georgia_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Talk Back Trembling Lips",
+      "artist": "Ernie Ashworth",
+      "has_synced": false,
+      "path": "select/10_Talk_Back_Trembling_Lips_Ernie_Ashworth.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Talk Back Trembling Lips",
+      "artist": "Ernest Ashworth",
+      "has_synced": false,
+      "path": "select/11_Talk_Back_Trembling_Lips_Ernest_Ashworth.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Talk You Out of It",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/12_Talk_You_Out_of_It_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Talk You Out Of It",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/13_Talk_You_Out_Of_It_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Talk to Me Texas",
+      "artist": "Keith Whitley",
+      "has_synced": true,
+      "path": "select/14_Talk_to_Me_Texas_Keith_Whitley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Talk",
+      "artist": "Khalid",
+      "has_synced": false,
+      "path": "select/pl_01_Talk_Khalid.txt"
+    }
+  ]
+}
